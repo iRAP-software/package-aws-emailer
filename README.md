@@ -1,0 +1,1 @@
+This is a tiny package to extend the iRAP emailers package with the ability to use AWS API for sending emails. The reason this isn't just bundeled in with the base package is so that the emailers package doesn't require a specific revision of the AWS SDK.
