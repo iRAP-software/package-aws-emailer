@@ -5,7 +5,7 @@
  * The dev doesn't have to look up the regions but just use one of this classes factory methods.
  */
 
-namespace iRAP\Emailers;
+namespace iRAP\AwsEmailer;
 
 
 class SesRegion

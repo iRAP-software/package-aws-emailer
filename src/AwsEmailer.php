@@ -1,6 +1,6 @@
 <?php
 
-namespace iRAP\Emailers;
+namespace iRAP\AwsEmailer;
 
 /*
  * This is an emailer that makes use of amazons SES (simple email service).
