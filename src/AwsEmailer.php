@@ -7,7 +7,7 @@ namespace iRAP\AwsEmailer;
  * Note that this class requires that the 1.6 sdk has already been set up with the autoloader
  */
 
-class AwsEmailer implements EmailerInterface
+class AwsEmailer implements \iRAP\Emailers\EmailerInterface
 {
     private $m_replyToEmail; 
     private $m_replyToName; 
