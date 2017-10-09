@@ -1,7 +1,7 @@
 {
-    "name": "irap/emailers",
+    "name": "irap/aws-emailer",
     "type": "library",
-    "description": "Emailing utilities.",
+    "description": "A package that adds support for emailing through AWS directly (rather than using SMTP)",
     "keywords": ["core","library"],
     "homepage": "http://www.irap.org/",
     "license": "none",
