@@ -16,8 +16,8 @@
     "require": {
         "php": ">=5.5.0",
         "aws/aws-sdk-php": "3.*",
-        "irap/emailers" : "2.*",
-        "ext-xml" : "1"
+        "irap/emailers": "2.*",
+        "ext-xml": "1"
     },
     "autoload": {
         "psr-4": {
